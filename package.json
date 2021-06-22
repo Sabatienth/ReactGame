@@ -1,0 +1,23 @@
+{
+  "name": "reactgame",
+  "version": "1.0.0",
+  "description": "Ein kleines Abschlussprojekt mit React",
+  "main": "src/app.js",
+  "dependencies": {
+    "babel": "^6.23.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sabatienth/ReactGame.git"
+  },
+  "author": "Sabatienth Ranganathan, Jeremias Schmitt",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sabatienth/ReactGame/issues"
+  },
+  "homepage": "https://github.com/Sabatienth/ReactGame#readme"
+}
